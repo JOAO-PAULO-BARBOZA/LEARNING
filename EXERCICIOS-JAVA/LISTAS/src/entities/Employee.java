@@ -14,6 +14,10 @@ public class Employee {
 		this.salary = salary;
 	}
 
+	public String toString() {
+		return "(ID: " +id+ ", NAME: "+name+", SALARY: "+salary+")";
+	}
+	
 	public Integer getId() {
 		return id;
 	}
