@@ -34,21 +34,22 @@ public class Main {
 	}
 			System.out.println(employees);
 		
+		System.out.println("ENTER THE EMPLOYEE ID THAT WILL HAVE SALARY INCREASE: ");
 		
+		
+		System.out.println("ENTER THE PERCENTAGE: ");
+		int percentage = sc.nextInt();
+		
+
 		
 		sc.close();
 
-		
-		
-
-	
-	
-	
-	
-	
-	
-	
-	
 	}
 
+	public static Integer cid() {
+		
+	}
+	
+	
+	
 }
