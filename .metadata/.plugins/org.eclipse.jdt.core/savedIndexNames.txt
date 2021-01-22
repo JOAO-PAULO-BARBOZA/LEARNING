@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/run/media/Paulinho/USB DISK/PROGRAMAÇÃO JAVA/EXE-JAVA/LEARNING/.metadata/.plugins/org.eclipse.jdt.core
+4198901909.index
+1175494123.index
+552418830.index

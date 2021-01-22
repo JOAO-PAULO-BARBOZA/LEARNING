@@ -35,6 +35,17 @@ public class Main {
 			System.out.println(employees);
 		
 		System.out.println("ENTER THE EMPLOYEE ID THAT WILL HAVE SALARY INCREASE: ");
+		int idsalary = sc.nextInt();
+		sc.nextLine();
+		Integer pos = cid(employees, idsalary);
+		if (pos == null) {
+			System.out.println("THIS ID DOES NOT EXIST!");
+		}
+		else {
+			
+			
+		}
+		
 		
 		
 		System.out.println("ENTER THE PERCENTAGE: ");
@@ -46,9 +57,17 @@ public class Main {
 
 	}
 
-	public static Integer cid() {
-		
+	public static Integer cid(List<Employee> employees, int id) {
+		for (int i = 0; i < employees.size(); i++) {
+			if (employees.get(i).getId() == id) {
+				return i;
+			}
+		}
+		return null;
+	
+	
 	}
+	
 	
 	
 	
