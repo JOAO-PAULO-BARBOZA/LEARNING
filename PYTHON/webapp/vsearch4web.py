@@ -26,10 +26,16 @@ def entry_page() -> 'html':
     return render_template('entry.html', the_title='Welcome to search for letters on the web!')
 
 @app.route('/viewlog')                                                 
-def view_the_log() -> str:
+def view_the_log() -> 'html':
+    contents = []
     with open('vsearch.log') as log:
-        contents = log.read()
-    return escape(contents)
+        for line in log:
+            contents.append([])
+            for item in line.split('|'):
+                contents[-1].append(escape(item))
+    titles = ('FORM DATA', 'REMOTE_ADDR', 'USER_AGENT', 'RESULTS')
+    return render_template('viewlog.html', the_title = 'View Log', the_row_titles = titles, the_data = contents,)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

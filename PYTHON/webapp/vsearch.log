@@ -1,3 +1,6 @@
 ImmutableMultiDict([('phrase', 'fazendo a coisa certa'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 | {'i', 'a', 'o', 'e'}
 ImmutableMultiDict([('phrase', 'coisa linda'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 | {'i', 'o', 'a'}
 ImmutableMultiDict([('phrase', 'primeiro teste '), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 | {'i', 'o', 'e'}
+ImmutableMultiDict([('phrase', 'teste de caso'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 | {'a', 'e', 'o'}
+ImmutableMultiDict([('phrase', 'analizando site'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 | {'a', 'i', 'e', 'o'}
+ImmutableMultiDict([('phrase', 'analizando site'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 | {'a', 'i', 'e', 'o'}
