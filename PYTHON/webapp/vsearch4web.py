@@ -1,15 +1,29 @@
 from flask import Flask, render_template, request, escape
 from vsearch import search4letters
-
+import mysql.connector
 app = Flask(__name__)
 # Nesse caso 'log' é a variável que estou definindo
 # req = request e res = response, que são as solicitações e respostas do server respectivamente.
 
 def log_request(req: 'flask_request', res: str) -> None:
-    """Cria e abre um aquivo na extensão .log. O 'a' significa appende. """
-    with open('vsearch.log', 'a') as log:
-#Com esse print o req e o res vão ser adcionados ao arquivo vsearch.log
-        print(req.form, req.remote_addr, req.user_agent, res, file=log, sep=' | ')
+    """Log details of the web request and the results."""
+    dbconfig = { 'host': '127.0.0.1',
+            'user': 'vsearch',
+            'password': 'vsearchpasswd',
+            'database': 'vsearchlogDB', }
+    conn = mysql.connector.connect(**dbconfig)
+    cursor = conn.cursor()
+    _SQL = """insert into log
+    (phrase, letters, ip, browser_string, results)
+    values
+    (%s, %s, %s, %s, %s)"""
+    cursor.execute(_SQL, (req.form['phrase'],
+        req.form['letters'],
+        req.remote_addr,
+        req.user_agent.browser, res,))
+    conn.commit()
+    cursor.close()
+    conn.close()
 
 @app.route('/search4', methods=['POST'])
 def go_search() -> 'html':
