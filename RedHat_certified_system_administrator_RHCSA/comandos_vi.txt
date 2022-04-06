@@ -1,0 +1,9 @@
+=====COMANDOS IMPORTATES DO VI=====
+
+****ESSES COMANDOS OCORREM NO MODO NORMAL****
+
+y --> copia uma linha.
+
+p --> cola uma linha.
+
+
