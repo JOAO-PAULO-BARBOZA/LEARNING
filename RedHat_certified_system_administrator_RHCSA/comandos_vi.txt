@@ -4,6 +4,17 @@
 
 y --> copia uma linha.
 
-p --> cola uma linha.
+p --> cola uma linha. 
 
+dd --> deleta uma linha inteira.
+
+x --> deleta de letra em letra 
+
+u --> semelhante ao ctrl Z.
+
+r --> usado para substituir o caractere onde estar o cursor
+
+o --> Muda para o modo de inserção pulando uma linha.
+
+a --> Muda para o modo de inserção pulando um caractere.
 

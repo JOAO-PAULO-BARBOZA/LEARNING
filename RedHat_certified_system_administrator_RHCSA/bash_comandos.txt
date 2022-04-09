@@ -1,0 +1,61 @@
+====COMANDOS IMPORTANTES====
+
+
+$ cp --> Copia um arquivo ou diretório para um determinado destino.
+
+$ mv caminho1/arquivo caminho2/ --> Move ou renomeia um arquivo ou diretório.
+
+$ rm arquivo--> remove um arquivo.
+
+$ rm -r diretorio/--> remove um diretório recursivamente(ou rmdir).
+
+$ ls -ltr --> lista arquivos e direorios de forma detalhada
+
+$ ls -a --> lista arquivos e diretórios ocultos.
+
+$ alias novo_nome='caminho/antig_onome'
+
+$ mkdir diretorio--> cria um diretório
+
+$ echo 'menssagem' > arquivo --> adiciona menssagem ao arquivo de forma a subescrever tudo nele contido.
+
+$ echo 'menssagem' >> arquivo --> adiciona menssagem a próxima linha no arquivo.
+
+$ chgpr 'grupo' 'arquivo' --> Muda um arquivo para um determinado grupo.
+
+$ chown 'dono' 'arquivo' --> Muda o dono do arquivo.
+
+$ chown 'dono':'grupo' 'arquivo' --> Para mudar o pertencimento e o grupo do arquivo.
+
+
+====Hard links e Soft links====
+
+
+$ ln -s 'caminho do arquivo' --> Cria um atalho para o arquivo(Um soft link).
+
+$ ln 'caminho do arquivo' --> Cria um atalho para o arquivo(Um hard link).
+
+*** Ambos são criados no diretório /tmp. Removendo o arquivo original o soft link some, o que não acontece com o hard link ****
+
+
+==== GERECIAMENTO DE CONTAS DE USUÁRIOS =====
+
+$ id 'usuário' --> informações sobre o usuário.
+
+$ useradd 'nome do usuário'--> cria um novo usuário.
+
+$ userdel 'nome do usuário' --> usado para excluir usuários.
+
+$ grpoupadd 'nome do grupo' --> usado para criar um novo grupo. 
+
+$ groupdel 'nome do grupo' --> usado para excluir grupos.
+
+$ usermod -G 'nome do grupo' 'nome do usuário' + chgrp -R 'NG' 'NU'--> adiciona um umsuário a um grupo.
+
+
+
+
+
+
+
+
