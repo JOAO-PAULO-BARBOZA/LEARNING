@@ -50,7 +50,9 @@ $ grpoupadd 'nome do grupo' --> usado para criar um novo grupo.
 
 $ groupdel 'nome do grupo' --> usado para excluir grupos.
 
-$ usermod -G 'nome do grupo' 'nome do usuário' + chgrp -R 'NG' 'NU'--> adiciona um umsuário a um grupo.
+$ usermod -G 'nome do grupo' 'nome do usuário' + chgrp -R 'NG' 'NU'--> adiciona um usuário a um grupo.
+
+$ chage 'opções' --> muda algumas especificações do usúario que vem por padrão no arquivo /etc/login.defs.
 
 
 

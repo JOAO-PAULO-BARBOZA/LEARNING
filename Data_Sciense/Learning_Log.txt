@@ -1,0 +1,47 @@
+=====Learning Log: Think about data in daily life======
+
+Instructions
+You can use this document as a template for the learning log activity: Think about data in daily life. Type your answers in this document, and save it on your computer or Google Drive. 
+We recommend that you save every learning log in one folder and include a date in the file name to help you stay organized. Important information like course number, title, and activity name are already included. After you finish your learning log entry, you can come back and reread your responses later to understand how your opinions on different topics may have changed throughout the courses. 
+To review detailed instructions on how to complete this activity, please return to Coursera: Learning Log: Think about data in daily life. 
+
++---------------+---------------------------------------------------------
+| Date:21/04/22 | Course/Topic: Course 1: Foundations: Data, Data Everywhere
+|               +----------------------------------------------------------
+|               | Learning Log: Think about data in daily life
++---------------+---------------------------------------------------------
+| Everyday data | Create a list of at least five questions:
+|               |
+|		| 1.How much water a human consumes a month?
+|		| 2.Which dog breed do humans prefer the most?
+|		| 3.Which companies donate the most around the world?
+|		| 4.How many people have a facebook account?
+|		| 5.How many languages are there?
+|               |
+|		| Now, select one of the five questions from your list to explore.
+|		| 5. There are around 7.100 languages in the world.
++---------------+-----------------------------------------------------------------
+| Reflections:  | Write 2-3 sentences (40-60 words) in response to each of the questions below
++---------------+------------------------------------------------------------------------------
+| Questions and | * What are some considerations or preferences you want to keep in mind when making a decision?
+| Responses:    |
+| 		|   When I make a decision, I think about the consequences of that decision.
+| 		|   I also try to get a lot of information that could affect my decision.
+|               |
+|               | * What kind of information or data do you have access to that will influence your decision?
+|               |
+|		|   Depending on the information, I analyze whether that information is security or not.
+|               |   I also analyze whether that information makes sense.
+|               |
+|               | * Are there any other things you might want to track associated with this decision?
+|               |
+|		|   This decision affects only me or my friends as well.
++---------------+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
