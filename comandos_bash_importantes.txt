@@ -1,0 +1,1 @@
+(mysql -u 'jpbbarboza1987@gmail.com' -p) --> Comando para entrar no mysql

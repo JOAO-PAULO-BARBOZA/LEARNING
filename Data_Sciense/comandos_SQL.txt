@@ -1,0 +1,84 @@
+*******ALGUNS COMANDOS DDL******
+
+
+ALTER TABLE table_name
+ADD COLUMN column_name data_type column_constraint;
+
+ALTER TABLE table_name
+DROP COLUMN column_name;
+
+ALTER TABLE table_name
+ALTER COLUMN column_name SET DATA TYPE data_type;
+
+ALTER TABLE table_name
+RENAME COLUMN current_column_name TO new_column_name;
+
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+
+TRUNCATE TABLE table_name; --> EXCLUI TODO CONTEÚDO DA TABELA.
+
+DROP TABLE table_name; --> EXCLUI A TABELA.
+
+******BUILT-IN DATABASE FUNCTIONS*******
+
+SELECT count(cost) FROM PETRESCUE;
+
+--QA2
+SELECT SUM(cost) as sum_of_cost FROM PETRESCUE;
+
+--QA3
+SELECT MAX(quantity) FROM PETRESCUE;
+
+--QA4
+SELECT avg(cost) as mean FROM PETRESCUE;
+
+--QA5
+SELECT AVG(cost) as cost_for_dog FROM PETRESCUE WHERE animal='Dog';
+
+--QB1
+SELECT ROUND(cost) FROM PETRESCUE;
+
+--QB2
+SELECT length(animal) FROM PETRESCUE;
+
+--QB3
+SELECT upper(animal) as upcase_animal FROM PETRESCUE;
+
+--QB4
+SELECT UNIQUE(UPPER(ANIMAL)) AS UNI_ANIMAL FROM PETRESCUE;
+
+--QB5
+select * from PETRESCUE where lower(ANIMAL) = 'cat';
+
+--QC1
+SELECT MOnth(rescuedate) as month_of_rescue FROM PETRESCUE;
+
+--QC2
+SELECT COUNT(quantity) as qnt_res_month_05 FROM PETRESCUE WHERE MONTH(rescuedate) = 5;
+
+--QC3
+SELECT COUNT(quantity) as qnt_res_day_14 FROM PETRESCUE WHERE day(rescuedate) = 14;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
