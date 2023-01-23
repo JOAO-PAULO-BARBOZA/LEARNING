@@ -1,0 +1,716 @@
+    1  sudo dpkg -i libfprint-2-tod1-goodix_0.0.6-0ubuntu1_somerville1_amd64.deb 
+    2  sudo pam-auth-update
+    3  init 0
+    4  pwd
+    5  conda deactivate
+    6  ls -a
+    7  vim .tmux.conf 
+    8  other
+    9  tmux
+   10  vim .tmux.conf 
+   11  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+   12  ls
+   13  python3
+   14  conda deactivate
+   15  which python3.9.7
+   16  whish python3.9.7
+   17  which 'python3.9.7'
+   18  which 'python3.9.7' -v
+   19  which 'python3.9' -v
+   20  python
+   21  vim .bashcr
+   22  vim .bashcrs
+   23  pwd
+   24  cd
+   25  vim .bashcrs
+   26  ls -a
+   27  vim bashrc
+   28  ls -a
+   29  vim .bashrc 
+   30  python
+   31  vim .bashrc 
+   32  sudo apt updade
+   33  sudo apt update
+   34  python
+   35  pwd
+   36  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+   37  ls
+   38  jupyter-notebook
+   39  tmux
+   40  conda deactivate
+   41  pwd
+   42  vim .tmux.conf 
+   43  tmux
+   44  ls
+   45  vim .bashrc 
+   46  python
+   47  python3
+   48  which 'python3'
+   49  conda deactivate
+   50  sudo apt install --upgrade python
+   51  sudo apt install --upgrade python3
+   52  pwd
+   53  vim .bashrc 
+   54  python
+   55  py
+   56  conda deactivate
+   57  python
+   58  py
+   59  python3
+   60  python -V
+   61  python3 -V
+   62  which 'python3'
+   63  vim .bashrc 
+   64  ls
+   65  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+   66  ls
+   67  py
+   68  pip install pandas
+   69  python
+   70  pwd
+   71  ls
+   72  mv /home/j-paulo/Downloads/PY0101EN-5.4_WorkingWithDifferentFileTypes.ipynb .
+   73  ls
+   74  python
+   75  ls
+   76  help(wget)
+   77  help
+   78  wget 'https://ww.google.com'
+   79  ls
+   80  vim index.html 
+   81  rm index.html 
+   82  ls
+   83  rm Sample-employee-XML-file.xml.1
+   84  ls
+   85  vim employee.csv 
+   86  python
+   87  ls
+   88  cd /home/j-paulo/Downloads/
+   89  ls
+   90  cd ..
+   91  ls
+   92  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+   93  ls
+   94  mv /home/j-paulo/Downloads/WebScraping_Review_Lab.ipynb .
+   95  ls
+   96  pwd
+   97  mv /home/j-paulo/Downloads/Final_Assignment\ Library.ipynb .
+   98  ls
+   99  python
+  100  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  101  python
+  102  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  103  python
+  104  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  105  python
+  106  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  107  python
+  108  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  109  ls -a
+  110  python
+  111  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  112  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+  113  ls
+  114  jupyter-notebook
+  115  py
+  116  sudo apt install python3.10.4
+  117  conda install python
+  118  python
+  119  py
+  120  conda install --upgrade python
+  121  conda install --upgrade python3
+  122  conda install python=3.10.4
+  123  tmux
+  124  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  125  rm /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py.swp
+  126  vim /home/j-paulo/anaconda3/lib/python3.9/site-packages/yfinance/base.py
+  127  hw
+  128  cd ../Data_Sciense/NoteBooks_Coursera/
+  129  ls
+  130  ls | grep 'W'
+  131  cd /home/j-paulo/Downloads/ 
+  132  jupyter-notebook
+  133  ls
+  134  pwd
+  135  ls | grep "F"
+  136  hw
+  137  cd ../Data_Sciense/NoteBooks_Coursera/
+  138  ls
+  139  pwd
+  140  mv /home/j-paulo/Downloads/Final\ Assignment\ Webscraping.ipynb .
+  141  ls
+  142  pwd
+  143  ls
+  144  mv /home/j-paulo/Downloads/Final\ Assignment.ipynb .
+  145  ls
+  146  mv 'Final Assignment.ipynb' Final_Assignment.ipynb 
+  147  ls
+  148  pwd
+  149  ls
+  150  ls /home/j-paulo/Downloads/
+  151  ls /home/j-paulo/Downloads/ | grep 'F'
+  152  ls
+  153  rm Final_Assignment.ipynb 
+  154  mv /home/j-paulo/Downloads/Final_Assignment.ipynb .
+  155  hw
+  156  pwd
+  157  cd ..
+  158  cd PYTHON/
+  159  cd ../Data_Sciense/NoteBooks_Coursera/
+  160  ls
+  161  jupyter-notebook
+  162  ls
+  163  cd
+  164  ls
+  165  cd control_software/
+  166  ls
+  167  git sattus
+  168  git satatus
+  169  git status
+  170  git add .
+  171  ls
+  172  git commit -m 'algumas alterações'
+  173  git push
+  174  pwd
+  175  conda create novo_ambiente
+  176  conda create -n novo_ambiente
+  177  conda activate novo_ambiente
+  178  python
+  179  python3
+  180  conda install python3=3.10.4
+  181  conda install python=3.10.4
+  182  python
+  183  python3
+  184  py
+  185  python
+  186  ls
+  187  conda activate novo_ambiente
+  188  python -V
+  189  python
+  190  conda deactivate
+  191  python
+  192  conda install --upgrade python=3.10.4
+  193  conda install --upgrade python
+  194  sudo apt upgrade
+  195  sudo apt update
+  196  sudo apt --upgradable
+  197  sudo apt list --upgradable
+  198  ls
+  199  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+  200  ls
+  201  jupyter notebook list
+  202  ls
+  203  git status
+  204  git add .
+  205  git status
+  206  git commit -m 'Conclusão de mais um curso e finalização do projeto Final_Assignment'
+  207  git push
+  208  msqld -u jpbbarboza1987@gmail.com -w
+  209  mysqld -u jpbbarboza1987@gmail.com -w
+  210  conda deactivate
+  211  which mysql
+  212  mysqld -u jpbbarboza1987@gmail.com -w
+  213  mysql -u jpbbarboza1987@gmail.com -w
+  214  mysql -u jpbbarboza1987@gmail.com
+  215  mysql -u jpbbarboza1987@gmail.com -p
+  216  mysql systemctl status
+  217  mysqld systemctl status
+  218  systemctl status mysql
+  219  ls
+  220  jupyter-notebook
+  221  pwd
+  222  tmux
+  223  conda deactivate
+  224  which jupyter-notebook
+  225  cd
+  226  vim .bashrc 
+  227  sudo apt update
+  228  jn
+  229  s
+  230  ls
+  231  hw
+  232  cd ../Data_Sciense/NoteBooks_Coursera/
+  233  ls
+  234  jn
+  235  conda activate novo_ambiente
+  236  python
+  237  which python
+  238  /home/j-paulo/anaconda3/envs/novo_ambiente/bin/python
+  239  conda deactivate
+  240  py
+  241  pip freeze
+  242  pip freeze | less
+  243  conda activate
+  244  conda activate novo_ambiente
+  245  python
+  246  pip freeze | more
+  247  pip freeze
+  248  conda install pip
+  249  pip list
+  250  pip install requests
+  251  pip list
+  252  pip freeze
+  253  python
+  254  ls
+  255  pip install datasette
+  256  datasette
+  257  pwd
+  258  mkdir datasette
+  259  ls
+  260  ls | less
+  261  ls | grep 'da'
+  262  cd datasette/
+  263  ls
+  264  cd ..
+  265  ls
+  266  ls | less
+  267  ls -a
+  268  cd ..
+  269  ls
+  270  cd NoteBooks_Coursera/
+  271  ls
+  272  datasette serve datasette
+  273  datasette serve /home/j-paulo/Downloads/
+  274  datasette serve /home/j-paulo/Downloads/Film_Locations_in_San_Francisco.csv 
+  275  ls
+  276  vim filmes.sql
+  277  ls
+  278  datasette serve filmes.sql 
+  279  datasette serve
+  280  conda deactivate
+  281  which mysql
+  282  which mysqld
+  283  which systemctl
+  284  cd /usr/bin/
+  285  lssssssss
+  286  ls
+  287  ls | grep 'mysql'
+  288  l -ltr | grep 'mysql'
+  289  which history
+  290  history
+  291  history | grep 'mysql'
+  292  mysql -u 'jpbbarboza1987@gmail.com' -p 3ATSALSCmnac7#
+  293  mysql -u 'jpbbarboza1987@gmail.com' -p
+  294  cd /var/lib/mysql
+  295  sudo su
+  296  pwd
+  297  hw
+  298  cd ../Data_Sciense/NoteBooks_Coursera/
+  299  ls
+  300  history | grep 'data'
+  301  datasette serve Film_Locations_in_San_Francisco.ibd 
+  302  conda activate novo_ambiente
+  303  datasette serve Film_Locations_in_San_Francisco.ibd 
+  304  cd /home/j-paulo/Downloads/
+  305  ls
+  306  rm Film_Locations_in_San_Francisco.csv 
+  307  rm Film_Locations_in_San_Francisco.sql 
+  308  conda deactiva
+  309  conda deactivate
+  310  pwd
+  311  cd
+  312  hw
+  313  pwd
+  314  cd
+  315  vim .bashrc 
+  316  jn
+  317  ls
+  318  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+  319  ls
+  320  tmux
+  321  conda activate novo_ambiente
+  322  ls
+  323  pwd
+  324  cd Data_Sciense/
+  325  ls
+  326  touch comandos_SQL.txt
+  327  ls
+  328  vim comandos_SQL.txt 
+  329  ls
+  330  conda deactivate
+  331  ls
+  332  vim comandos_SQL.txt 
+  333  python
+  334  echo 'BUILT-IN DATABASE FUNCTIONS' >> comandos_SQL.txt 
+  335  vim comandos_SQL.txt 
+  336  ls -a
+  337  rm .comandos_SQL.txt.swp
+  338  rm .comandos_SQL.txt.swo 
+  339  vim comandos_SQL.txt 
+  340  pwd
+  341  ls
+  342  cd NoteBooks_Coursera/
+  343  ls
+  344  mv /home/j-paulo/Downloads/DB0201EN-Week3-1-1-Connecting.ipynb .
+  345  jy
+  346  conda deactivate
+  347  jn
+  348  conda activate
+  349  jn
+  350  python
+  351  pip -V
+  352  pip freeze
+  353  django
+  354  django -V
+  355  pip freeze requirements.txt
+  356  pwd
+  357  ls
+  358  pip freeze > requirements.txt
+  359  ls
+  360  cat requirements.txt 
+  361  conda install pip
+  362  conda install python
+  363  pip install django
+  364  pip freeze
+  365  pip freeze > requirements.txt
+  366  cat requirements.txt 
+  367  git status
+  368  django-admin startproject report_form .
+  369  django-admin startapp core
+  370  ls
+  371  python manage.py runserver
+  372  ls
+  373  cd core/
+  374  ls
+  375  mkdir templates
+  376  ls
+  377  cd templates/
+  378  ls
+  379  touch index.html
+  380  ls
+  381  cd ..
+  382  pwd
+  383  cd ..
+  384  ls
+  385  python manage.py runserver
+  386  cd core/templates/
+  387  ls
+  388  rm teste.html 
+  389  cd ..
+  390  ls
+  391  python manage.py runserver
+  392  git status
+  393  ls
+  394  python manage.py makemigrations
+  395  python manage.py migrate
+  396  python
+  397  pwd
+  398  conda deactivate
+  399  pwd
+  400  vim texto.py
+  401  python texto.py 
+  402  pwd
+  403  ls
+  404  cd PROGRAMMER/LEARNING/Data_Sciense/NoteBooks_Coursera/
+  405  ls
+  406  git status
+  407  git add .
+  408  git commit -m 'Manipulação de dados tipo csv'
+  409  git push
+  410  tmux
+  411  pwd
+  412  cd Downloads/
+  413  ls
+  414  conda deativate
+  415  conda deactivate
+  416  conda activate report_form
+  417  pyhon -V
+  418  python -V
+  419  conda deactivate
+  420  python -V
+  421  conda activate
+  422  python -V
+  423  jn
+  424  sudo apt upgrade
+  425  sudo apt update
+  426  conda deactivate
+  427  pwd
+  428  cd Documentos/
+  429  ls
+  430  mkdir Repos
+  431  ls
+  432  cd Repos/
+  433  ls
+  434  ls /home/j-paulo/Downloads/
+  435  ls /home/j-paulo/Downloads/ | grep 'html'
+  436  mv /home/j-paulo/Downloads/html5up-editorial.zip .
+  437  ls
+  438  unzip html5up-editorial.zip 
+  439  ls
+  440  rm assets/
+  441  rm -f assets/
+  442  rm -F assets/
+  443  ls
+  444  pwd
+  445  mkdir portifolio_projetos
+  446  ls
+  447  cd portifolio_projetos/
+  448  mv /home/j-paulo/Documentos/Repos/html5up-editorial.zip .
+  449  ls
+  450  pwd
+  451  ls
+  452  unzip html5up-editorial.zip 
+  453  pwd
+  454  cd ..
+  455  pwd
+  456  ls
+  457  mv portifolio_projetos/ portfolio_projetos/
+  458  ls
+  459  [200~sudo snap install notion-snap
+  460  sudo snap install notion-snap
+  461  sudo apt upgrade
+  462  pwd
+  463  ls
+  464  cd portfolio_projetos/
+  465  ls
+  466  cd images/
+  467  ls
+  468  cd ..
+  469  ls
+  470  pwd
+  471  ls
+  472  pwd
+  473  mkdir img
+  474  ls
+  475  mv /home/j-paulo/Downloads/WhatsApp\ Image\ 2022-10-05\ at\ 17.47.09.jpeg .
+  476  ls
+  477  mv 'WhatsApp Image 2022-10-05 at 17.47.09.jpeg' ./img/
+  478  ls
+  479  cd img
+  480  ls
+  481  cd ..
+  482  ls
+  483  tmux
+  484  conda deactivate
+  485  sudo apt upgrade
+  486  sudo apt update
+  487  cd Downloads/
+  488  ls
+  489  ls | more
+  490  ls
+  491  ./google-chrome-stable_current_amd64.deb 
+  492  sudo su
+  493  [200~sudo apt install gdebi
+  494  sudo apt install gdebi
+  495  sudo apt update
+  496  python
+  497  conda activate
+  498  python
+  499  pwd
+  500  pip freeze
+  501  conda update -n base -c defaults conda
+  502  -V conda
+  503  conda -V
+  504  conda activate comunidade_env
+  505  conda install pandas
+  506  pip freeze
+  507  pip help
+  508  pip help | less
+  509  anaconda
+  510  anaconda3
+  511  Anaconda3
+  512  anaconda -h
+  513  anaconda -h | less
+  514  conda
+  515  akaconda-client
+  516  anaconda-navigator
+  517  conda install jupyter-notebook
+  518  conda jupyter-notebook
+  519  conda deactivate
+  520  pip freeze
+  521  conda activate comunidade_env
+  522  pip freeze
+  523  conda install --uninstall python
+  524  conda --uninstall python
+  525  conda help
+  526  conda --help
+  527  conda --help | less
+  528  conda uninstall python
+  529  python
+  530  py
+  531  conda uninstall python3
+  532  conda install python
+  533  python
+  534  py
+  535  python
+  536  witch python
+  537  wich python
+  538  which python
+  539  pip freeze
+  540  conda deactivate
+  541  conda --help
+  542  conda --help | less
+  543  conda activate comunidade_env
+  544  jn
+  545  conda deactivate
+  546  conda create comunidade_env
+  547  conda create -n comunidade_env
+  548  condata activae cominidade_env
+  549  condata activate cominidade_env
+  550  condata activate comunidade_env
+  551  conda activate comunidade_env
+  552  python
+  553  sudo apt install python
+  554  sudo apt install python3
+  555  python
+  556  sudo apt install python3
+  557  python
+  558  py
+  559  pip freeze
+  560  conda install python3
+  561  conda install python
+  562  python
+  563  pip freeze
+  564  pip install pandas
+  565  pip freeze
+  566  jn
+  567  tmux
+  568  anaconda-navigator
+  569  ls
+  570  pwd
+  571  sudo apt upgrade
+  572  sp
+  573  cd
+  574  pwd
+  575  sudo su
+  576  conda activate comunidade_env
+  577  pip freeze
+  578  which python
+  579  python
+  580  jupyter-notebook
+  581  conda install pandas
+  582  pwd
+  583  cd Documentos/
+  584  ls
+  585  cd Cominidade_DS/
+  586  ls
+  587  cd Python_do_ZERO_ao_DS/
+  588  ls
+  589  ld /home/j-paulo/Downloads/
+  590  ls /home/j-paulo/Downloads/
+  591  ls /home/j-paulo/Downloads/ | less
+  592  mv /home/j-paulo/Downloads/archive.zip .
+  593  ls
+  594  unzip archive.zip 
+  595  ls
+  596  python
+  597  conda activate comunidade_env
+  598  jupyter-notebook
+  599  tmux
+  600  ug
+  601  up
+  602  tmux
+  603  vim /j-paulo/home/.tmux.config
+  604  ls -a /j-paulo/home/
+  605  ls -a /home/j-paulo
+  606  ls -a /home/j-
+  607  vim /home/j-paulo/.tmux.conf
+  608  t
+  609  T
+  610  sudo uninstall tmux
+  611  which tmux
+  612  sudo su
+  613  sudo help
+  614  sudo man
+  615  help sudo
+  616  man sudo
+  617  man apt
+  618  sudo apt reinstall tmux
+  619  help tumx
+  620  help tmux
+  621  man tmux
+  622  tmux
+  623  t
+  624  T
+  625  tmux
+  626  conda deactivate
+  627  anaconda-navegator
+  628  anaconda-navigator
+  629  conda-navigator
+  630  conda-navegator
+  631  history | grep 'conda' 
+  632  history | grep 'conda' | less
+  633  Anaconda-Navigator
+  634  Anaconda-navigator
+  635  anaconda-navigator
+  636  Anaconda-Navigator
+  637  conda activate
+  638  Anaconda-Navigator
+  639  conda activate comunidade_env
+  640  pwd
+  641  sudo apt upgrade
+  642  ls
+  643  rm df2.csv 
+  644  ls
+  645  conda install plotly
+  646  git status
+  647  pwd
+  648  cd ..
+  649  ls
+  650  git status
+  651  cd ..
+  652  git status
+  653  pwd
+  654  git add .
+  655  git status
+  656  git commit -m 'Conclusão do modulo 2 da comunidade_DS'
+  657  git push
+  658  git status
+  659  git add .
+  660  git commit -m "contrução de um mapa com o plotly"
+  661  git push
+  662  conda import matplotlib
+  663  conda install matplotlib
+  664  pwd
+  665  git status
+  666  git add .
+  667  git commit -m "contrução de mapas e gráficos nas atividades do M3"
+  668  git push
+  669  conda install -c conda-forge jupyter_contrib_nbextensions
+  670  ls
+  671  anaconda-navigator
+  672  conda-navigator
+  673  pip install geopy
+  674  conda install geopy
+  675  ls
+  676  pwd
+  677  cd Data_Sciense/
+  678  ls
+  679  cd Cominidade_DS/
+  680  ls
+  681  cd Python_do_ZERO_ao_DS/
+  682  ls
+  683  vim kc_house_data.csv 
+  684  ls
+  685  pwd
+  686  cd /home/j-paulo/PROGRAMMER/LEARNING/
+  687  ls
+  688  cd RedHat_certified_system_administrator_RHCSA/
+  689  ls
+  690  vim bash_comandos.txt 
+  691  ls
+  692  vim comandos_vi.txt 
+  693  anaconda-navigator
+  694  conda deactivate
+  695  anaconda-navigator
+  696  conda deactivate
+  697  anaconda-navigator
+  698  ls
+  699  pwd
+  700  history
+  701  ls
+  702  history > teste.txt
+  703  ls
+  704  vim teste.txt 
+  705  pwd
+  706  ls
+  707  rm teste.txt 
+  708  pwd
+  709  ls
+  710  hw
+  711  pwd
+  712  ls
+  713  cd RedHat_certified_system_administrator_RHCSA/
+  714  pwd
+  715  ls
+  716  history > teste.txt
